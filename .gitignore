@@ -1,1 +1,3 @@
 /target/
+# Hibernate sensitive config
+src/main/resources/hibernate.cfg.xml
